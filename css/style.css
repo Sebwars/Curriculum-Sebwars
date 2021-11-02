@@ -1,0 +1,74 @@
+.bannerGris{
+    background-color: #C4C4C4;
+    width: 1440;
+    height: 60px;
+    left: 0px;
+    top: 188px;
+    padding-left: 0.5px;
+    padding-right: 0.5px;
+}
+.titleSection{margin-bottom: 0.5rem;
+    font-family: "Arial",sans-serif;
+    font-weight: 700;
+    line-height: 1.50;
+    font-size: 1.875rem;
+    color: #005677;
+    text-align: center;
+    background-color: #C4C4C4;
+    width: 1440;
+    height: 50px;
+    left: 60px;
+    top: 188px;
+
+}
+.bannerBlanco{
+    background-color: #ffffff;
+    width: 1440;
+    height: 60px;
+    left: 60px;
+    top: 188px;
+    padding-left: 0.5px;
+    padding-right: 0.5px;
+}
+.bannerGrisMedia{
+    margin-bottom: 1rem;
+    font-family: "Arial",sans-serif;
+    font-weight: 100;
+    line-height: 1.30em;
+    font-size: 1.25rem;
+    color: #005677;
+    text-align: justify;
+    background-color: #C4C4C4;
+    width: 1440;
+    height: 30px;
+    left: 60px;
+    top: 188px;
+}
+.italic{
+    font-style: italic;
+}
+.bannerBlancoAlto{
+    background-color: #aaaaaa;
+    width: 1440;
+    height: 60px;
+    left: 60px;
+    top: 188px;
+    padding-left: 0.5px;
+    padding-right: 0.5px;
+}
+.footerDiv {margin-bottom: 0.5rem;
+    font-family: "Arial",sans-serif;
+    font-weight: 100;
+    line-height: 2.40em;
+    font-size: 18px;
+    color: #ffffff;
+    text-align: center;
+    background-color: #005677;
+    width: 1440;
+    height: 50px;
+    left: 60px;
+    top: 188px;
+}
+.centrado {
+    padding: 0px 5px 0px 5px;
+    }
